@@ -16,7 +16,7 @@ export default function Fetchdata() {
   return (
     <>
     <div className='container my-5'>
-      <h1 style={{fontFamily:'Montserrat, sans-serif',display:'flex',justifyContent:'center',alignItems:'center'}}><b>
+      <h1 style={{fontFamily:'Gentium Plus',display:'flex',justifyContent:'center',alignItems:'center'}}><b>
       Top Headlines</b></h1>
     </div>
      <div className="container my-3" style={{boxShadow:'2px 2px 10px black',paddingTop:'30px',borderRadius:'10px',paddingBottom:'30px'}}>
